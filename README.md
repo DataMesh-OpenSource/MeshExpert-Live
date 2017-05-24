@@ -21,7 +21,7 @@ For Chinese version, refer to [MeshExpert.Live.Developer.Manuals.pdf](https://gi
 
 ### MeshExpert Suite&copy;
 
-Download the latest installer [here](https://github.com/DataMesh-OpenSource/MeshExpert-Live/releases/download/v1.0.6/MeshExpert.Installer.v1.0.6.exe "MeshExpert Installer v1.0.6").
+Download the latest installer [MeshExpert.Installer.v1.0.6.exe](https://github.com/DataMesh-OpenSource/MeshExpert-Live/releases/download/v1.0.6/MeshExpert.Installer.v1.0.6.exe "MeshExpert Installer v1.0.6").
 
 Follow the Section 3.5.3 "MeshExpert Install Suite Installation and Usage Guide" in the documentation to install and try.
 
