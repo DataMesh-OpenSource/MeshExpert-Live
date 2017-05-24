@@ -53,7 +53,7 @@ Please note that some components of this software are made open source with resp
 For a trial license or any questions, please contact us by *service@datamesh.com*
    
 ### Seattle Office
-+1 (425) 274-3400
++1 (425)528-0974
 
 Orange Studios 
 Room 117, 2205 152nd Ave NE 
