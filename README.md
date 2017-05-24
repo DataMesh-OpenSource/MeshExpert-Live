@@ -46,4 +46,20 @@ Refer to Section 4 and Section 5 in the documentation for developer guide.
 
 *MeshExpert&copy;* is a trademark of [DataMesh Inc.](http://www.datamesh.com "DataMesh"). Please refer to our [commercial and trial license](https://github.com/DataMesh-OpenSource/MeshExpert-Live/blob/master/LICENSE.txt "Software License Agreement").
 
-Some components of this software are made open source with respetive license, please refer to their respective license.
+Please note that some components of this software are made open source with respetive license.
+
+## Contact Us
+
+For a trial license or any questions, please contact us by *service@datamesh.com*
+   
+### Seattle Office
++1 (425) 274-3400
+
+Orange Studios 
+Room 117, 2205 152nd Ave NE 
+Redmond, WA 98052
+
+### Beijing Office
++86 1085715801
+
+北京朝阳区复星国际中心1901室
