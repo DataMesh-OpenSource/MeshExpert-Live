@@ -9,7 +9,7 @@
 
 ## Documentation
 
-For Chinese version, refer to: https://github.com/DataMesh-OpenSource/MeshExpert-Live/releases/download/v1.0.6/MeshExpert.Live.Developer.Manuals.v1.0.6.Chinese.pdf
+For Chinese version, refer to [this](https://github.com/DataMesh-OpenSource/MeshExpert-Live/releases/download/v1.0.6/MeshExpert.Live.Developer.Manuals.v1.0.6.Chinese.pdf "MeshExpert.Live.Developer.Manuals.v1.0.6.Chinese.pdf").
 
 ## MeshExpert Suite&copy;
 
