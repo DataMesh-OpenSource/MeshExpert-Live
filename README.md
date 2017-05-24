@@ -35,7 +35,7 @@ Refer to Section 1.4 "Experience Immersive MixedReality" in the documentation fo
 
 ### METoolkit
 
-METoolkit is opensource under MIT license. You are free to use it.
+METoolkit is opensource under MIT license. You are free to use it to create your own apps and integrate with MeshExpert Live!.
 
 [METoolkit Source Code](https://github.com/DataMesh-OpenSource/METoolkit "METoolkit souce")
 
