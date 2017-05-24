@@ -5,7 +5,7 @@
 
 * *MeshExpert Apps*: applications on HoloLens, Surface, iPhone/iPad, Android, VR Glasses, etc. which could communicate with MeshExpert Suite for live show
 
-* *MeshExpert Toolkit*: an opensouce helper toolkit enables easy app-development for developers
+* *METoolkit*: an opensouce helper toolkit enables easy app-development for developers
 
 ## Documentation
 
@@ -15,5 +15,8 @@ For Chinese version, refer to [this](https://github.com/DataMesh-OpenSource/Mesh
 
 ## MeshExpert Apps
 
-## MeshExpert Toolkit
+## METoolkit
 
+METoolkit is opensource under MIT license. You are free to use it.
+
+[METoolkit Source Code](https://github.com/DataMesh-OpenSource/METoolkit "METoolkit souce")
