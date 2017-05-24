@@ -1,7 +1,7 @@
 
 <img src="https://github.com/DataMesh-OpenSource/MeshExpert-Live/blob/master/resources/datamesh.png" width="400">
 
-                                                  Visit us at [www.datamesh.com](http://www.datamesh.com "DataMesh Home")
+                                                                Visit us at [www.datamesh.com](http://www.datamesh.com "DataMesh Home")
 
 
 # MeshExpert-Live!
