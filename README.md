@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/DataMesh-OpenSource/MeshExpert-Live/blob/master/resources/datamesh.png "DataMesh")
+<img src="https://github.com/DataMesh-OpenSource/MeshExpert-Live/blob/master/resources/datamesh.png" alt="DataMesh" style="width: 200px;"/>
 
 Powered by DataMesh! Visit [www.datamesh.com](http://www.datamesh.com "DataMesh Home")
 
