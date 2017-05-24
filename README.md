@@ -32,6 +32,8 @@ The MeshExpert comes with a demo App, with which you can try.
 
 ![alt text](https://github.com/DataMesh-OpenSource/MeshExpert-Live/blob/master/resources/SolarSystemExplorer-show.jpg "SolarSystemExplorer")
 
+<img src="https://github.com/DataMesh-OpenSource/MeshExpert-Live/blob/master/resources/SolarSystemExplorer-show.jpg" alt="SolarSystemExplorer" style="width: 600px;"/>
+
 Refer to Section 1.4 "Experience Immersive MixedReality" in the documentation for instructions.
 
 ### METoolkit
