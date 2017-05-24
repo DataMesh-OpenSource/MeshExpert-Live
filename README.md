@@ -38,3 +38,12 @@ Refer to Section 1.4 "Experience Immersive MixedReality" in the documentation fo
 METoolkit is opensource under MIT license. You are free to use it.
 
 [METoolkit Source Code](https://github.com/DataMesh-OpenSource/METoolkit "METoolkit souce")
+
+Refer to Section 4 and Section 5 in the documentation for developer guide.
+
+
+## License
+
+*MeshExpert&copy;* is a trademark of [DataMesh Inc.](http://www.datamesh.com "DataMesh"). Please refer to our [commercial and trial license](https://github.com/DataMesh-OpenSource/MeshExpert-Live/blob/master/LICENSE.txt "Software License Agreement").
+
+Some components of this software are made open source with respetive license, please refer to their respective license.
