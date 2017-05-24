@@ -1,7 +1,7 @@
 
 ![alt text](https://github.com/DataMesh-OpenSource/MeshExpert-Live/blob/master/resources/datamesh.png "DataMesh")
 
-                      Visit us at [www.datamesh.com](http://www.datamesh.com "DataMesh Home")
+                                                  Visit us at [www.datamesh.com](http://www.datamesh.com "DataMesh Home")
 
 
 # MeshExpert-Live!
@@ -29,6 +29,8 @@ Follow the Section 3.5.3 "MeshExpert Install Suite Installation and Usage Guide"
 
 The MeshExpert comes with a demo App, with which you can try. 
 
+
+![alt text](https://github.com/DataMesh-OpenSource/MeshExpert-Live/blob/master/resources/SolarSystemExplorer-show.jpg "SolarSystemExplorer")
 
 Refer to Section 1.4 "Experience Immersive MixedReality" in the documentation for instructions.
 
