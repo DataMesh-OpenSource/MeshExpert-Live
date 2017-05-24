@@ -29,7 +29,7 @@ Follow the Section 3.5.3 "MeshExpert Install Suite Installation and Usage Guide"
 
 The MeshExpert comes with a demo App, with which you can try. 
 
-<img src="https://github.com/DataMesh-OpenSource/MeshExpert-Live/blob/master/resources/SolarSystemExplorer-show.jpg" width="48">
+<img src="https://github.com/DataMesh-OpenSource/MeshExpert-Live/blob/master/resources/SolarSystemExplorer-show.jpg" width="600">
 
 Refer to Section 1.4 "Experience Immersive MixedReality" in the documentation for instructions.
 
