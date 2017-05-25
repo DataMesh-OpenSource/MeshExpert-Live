@@ -6,6 +6,10 @@
 
 # MeshExpert-Live!
 
+<p align="center">
+<img src="https://github.com/DataMesh-OpenSource/MeshExpert-Live/blob/master/resources/MeshExpert-Live-Show.jpeg" alt="MeshExpert-Live-Show" width="500">
+</p>
+
 *MeshExpert Live!&reg;* is a mixed-reality show product by *DataMesh&trade;*. It consists of three main software components:
 * *MeshExpert Suite&copy;*: supporting system for MeshExpert Live! Workstation
 
@@ -29,7 +33,9 @@ Follow the Section 3.5.3 "MeshExpert Install Suite Installation and Usage Guide"
 
 The MeshExpert comes with a demo App named "SolarSystemExplorer", with which you can try. 
 
+<p align="center">
 <img src="https://github.com/DataMesh-OpenSource/MeshExpert-Live/blob/master/resources/SolarSystemExplorer-show.jpg" width="600">
+</p>
 
 Refer to Section 1.4 "Experience Immersive MixedReality" in the documentation for instructions. Souce code for the demo app is [here](https://github.com/DataMesh-OpenSource/SolarSystemExplorer "SolarSystemExplorer Source Code"). 
 
