@@ -17,6 +17,21 @@
 
 - **METoolkit**: an opensouce helper toolkit enables easy app-development for developers
 
+## News！
+
+* __[Datamesh Launched Meshexpert Series Product](http://blog.datamesh.com/2017/05/24/datamesh-launched-meshexpert-series-product/ "Datamesh Launched Meshexpert Series Product")__
+
+   > May 23 *#MicrosoftEvent* Shanghai, Microsoft announced they would begin shipping HoloLens in China. Same day mixed reality pioneer and Microsoft partner DataMesh launched MeshExpert DataMix and MeshExpert Live!. Therefore, HoloLens fans across the globe can immediately experience high-quality mixed reality middleware for their future application. 
+
+    [Read More >>](http://blog.datamesh.com/2017/05/24/datamesh-launched-meshexpert-series-product/ "Datamesh Launched Meshexpert Series Product")
+
+
+* __[Take Spectator View to a Whole New Level with DataMesh's MeshExpert](https://next.reality.news/news/take-spectator-view-whole-new-level-with-datameshs-meshexpert-0177732/ "Take Spectator View to a Whole New Level with DataMesh's MeshExpert")__
+
+  > DataMesh has announced the release of a new enterprise geared mixed reality middleware — MeshExpert. This solution for collaborative interaction with dynamic data is made up of two primary components: MeshExpert Live!, a 4K mixed reality capture system built off of the Microsoft Spectator View, and MeshExpert DataMix, which offers the ability to blend different types of data with XR and mobile hardware.
+
+   [Read More >>](https://next.reality.news/news/take-spectator-view-whole-new-level-with-datameshs-meshexpert-0177732/ "Take Spectator View to a Whole New Level with DataMesh's MeshExpert")
+
 ## Latest Version: v1.0.6
 
 ### Documentation
