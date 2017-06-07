@@ -70,6 +70,8 @@ Refer to [METoolkit Developer Manual](http://docs.datamesh.com/projects/me-live/
 
 *MeshExpert&copy;* is a trademark of [DataMesh Inc.](http://www.datamesh.com "DataMesh"). Please refer to our [commercial and trial license](https://github.com/DataMesh-OpenSource/MeshExpert-Live/blob/master/LICENSE.txt "Software License Agreement").
 
+For a trial license, please contact us by *service@datamesh.com*
+
 Please note that some components of this software are made open source with respetive license.
 
 ## Contact Us
