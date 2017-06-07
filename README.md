@@ -32,17 +32,20 @@
 
    [Read More >>](https://next.reality.news/news/take-spectator-view-whole-new-level-with-datameshs-meshexpert-0177732/ "Take Spectator View to a Whole New Level with DataMesh's MeshExpert")
 
-## Latest Version: v1.0.6
+## Latest Version: v1.0.7
 
 ### Documentation
 
-For Chinese version, refer to [MeshExpert.Live.Developer.Manuals.pdf](https://github.com/DataMesh-OpenSource/MeshExpert-Live/releases/download/v1.0.6/MeshExpert.Live.Developer.Manuals.v1.0.6.Chinese.pdf "MeshExpert.Live.Developer.Manuals.v1.0.6.Chinese.pdf").
+Refer to [MeshExpert Live! Documentation](http://docs.datamesh.com/projects/me-live/).
 
 ### MeshExpert Suite&copy;
 
-Download the latest installer [MeshExpert.Installer.v1.0.6.exe](https://github.com/DataMesh-OpenSource/MeshExpert-Live/releases/download/v1.0.6/MeshExpert.Installer.v1.0.6.exe "MeshExpert Installer v1.0.6").
+Download the latest installer on:
 
-Follow the Section 3.5.3 "MeshExpert Install Suite Installation and Usage Guide" in the documentation to install and try.
+* GitHub Mirror: [MeshExpert.Installer.v1.0.7.exe](https://github.com/DataMesh-OpenSource/MeshExpert-Live/releases/download/v1.0.7/MeshExpert.Installer.v1.0.7.exe "MeshExpert Installer v1.0.7").
+* AWS Mirror: [MeshExpert Installer 1.0.7.exe](https://meshexpert-us.s3.amazonaws.com/MeshExpert%20Installer%201.0.7.exe)
+
+Follow the [User Guide](http://docs.datamesh.com/projects/me-live/en/latest/user-guide/) in the documentation to install and try.
 
 ### MeshExpert Apps
 
@@ -52,7 +55,7 @@ The MeshExpert comes with a demo App named "SolarSystemExplorer", with which you
 <img src="https://github.com/DataMesh-OpenSource/MeshExpert-Live/blob/master/resources/SolarSystemExplorer-show.jpg" width="600">
 </p>
 
-Refer to Section 1.4 "Experience Immersive MixedReality" in the documentation for instructions. Souce code for the demo app is [here](https://github.com/DataMesh-OpenSource/SolarSystemExplorer "SolarSystemExplorer Source Code"). 
+Refer to the [User Guide](http://docs.datamesh.com/projects/me-live/en/latest/user-guide/#solarsystemexplorer) in the documentation for instructions. Souce code for the demo app is [here](https://github.com/DataMesh-OpenSource/SolarSystemExplorer "SolarSystemExplorer Source Code"). 
 
 ### METoolkit
 
@@ -60,7 +63,7 @@ METoolkit is opensource under MIT license. You are free to use it to create your
 
 [METoolkit Source Code](https://github.com/DataMesh-OpenSource/METoolkit "METoolkit souce")
 
-Refer to Section 4 and Section 5 in the documentation for developer guide.
+Refer to [METoolkit Developer Manual](http://docs.datamesh.com/projects/me-live/en/latest/metoolkit-manual/) in the documentation for developer guide.
 
 
 ## License
