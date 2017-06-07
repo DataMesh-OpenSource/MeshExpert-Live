@@ -40,7 +40,7 @@ Refer to [MeshExpert Live! Documentation](http://docs.datamesh.com/projects/me-l
 
 ### MeshExpert Suite&copy;
 
-Download the latest installer:
+Download the latest installer from one of the Mirrors:
 
 * GitHub Mirror: [MeshExpert.Installer.v1.0.7.exe](https://github.com/DataMesh-OpenSource/MeshExpert-Live/releases/download/v1.0.7/MeshExpert.Installer.v1.0.7.exe "MeshExpert Installer v1.0.7")
 * AWS Mirror: [MeshExpert Installer 1.0.7.exe](https://meshexpert-us.s3.amazonaws.com/MeshExpert%20Installer%201.0.7.exe)
